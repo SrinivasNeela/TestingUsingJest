@@ -1,0 +1,15 @@
+{
+  "name": "pract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage":"jest --collectCoverageFrom=src/All/**.js --coverage src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
